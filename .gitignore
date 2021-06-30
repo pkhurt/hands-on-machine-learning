@@ -1,0 +1,9 @@
+# virtual environment
+/ml_env/*
+
+# Trained models
+*.pkl
+
+# Datasets
+*.tgz
+*.csv
