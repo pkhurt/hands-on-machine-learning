@@ -13,3 +13,8 @@ deactivate
 
 ## Start Jupyter Notebook
 `jupyter notebook`
+
+## Projects
+### California housing prices
+### Spotify genre machine learning
+Source: https://www.kaggle.com/siropo/spotify-multigenre-playlists-data
